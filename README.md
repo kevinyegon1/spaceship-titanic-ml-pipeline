@@ -22,4 +22,4 @@ The model analyzes several key features, including:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/spaceship-titanic-classification.git](https://github.com/kevinyegon1/spaceship-titanic-classification.git)
+   git clone [https://github.com/YOUR_USERNAME/spaceship-titanic-classification.git](https://github.com/kevinyegon1/spaceship-titanic-ml-pipeline.git)
